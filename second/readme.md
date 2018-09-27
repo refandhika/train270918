@@ -1,5 +1,5 @@
 ### How To Use
 
 - Run Program
-- Insert numerical sentences
+- Insert an array of int
 - Enter to see the answer
